@@ -1,0 +1,1105 @@
+Found 13 candidate files
+Ollama model: qwen3:4b
+SearXNG: http://127.0.0.1:8080
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Argentina/arg_authors_inconclusive.json
+
+[1/26] Pablo Sapia
+      Ollama research round 1/6
+      WEB SEARCH: Pablo Sapia Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[2/26] Various Authors
+      Ollama research round 1/6
+      WEB SEARCH: Argentine authors gender Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[3/26] Ignacio Minaverry
+      Ollama research round 1/6
+      WEB SEARCH: Ignacio Minaverry Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[4/26] Emilio Crenzel
+      Ollama research round 1/6
+      WEB SEARCH: Emilio Crenzel Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Emilio Crenzel biografía Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[5/26] Dante Ginevra
+      Ollama research round 1/6
+      WEB SEARCH: Dante Ginevra Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Dante Ginevra autor argentino Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[6/26] Evangelina Imitian
+      Ollama research round 1/6
+    Result: unknown (low confidence; identity medium)
+
+[7/26] Roberto Doberti
+      Ollama research round 1/6
+      WEB SEARCH: Roberto Doberti Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[8/26] Jorge Alessandro
+      Ollama research round 1/6
+      WEB SEARCH: Jorge Alessandro biography Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[9/26] Loyds
+      Ollama research round 1/6
+      WEB SEARCH: Loyds Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[10/26] Carla Beredes
+      Ollama research round 1/6
+      WEB SEARCH: Carla Beredes Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Carla Beredes biografía Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity unknown)
+
+[11/26] J.P. Zooey
+      Ollama research round 1/6
+      WEB SEARCH: J.P. Zooey Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[12/26] Guillermo Roz
+      Ollama research round 1/6
+      WEB SEARCH: Guillermo Roz Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[13/26] Mori Ponsowy
+      Ollama research round 1/6
+      WEB SEARCH: Mori Ponsowy Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[14/26] Debota Di Véroli
+      Ollama research round 1/6
+      WEB SEARCH: Debota Di Véroli Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Debota Di Vero Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[15/26] Alejandro Pidello
+      Ollama research round 1/6
+      WEB SEARCH: Alejandro Pidello Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Alejandro Pidello biography Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity unknown)
+
+[16/26] Bárbara Belloc
+      Ollama research round 1/6
+      WEB SEARCH: Bárbara Belloc Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Barbara Belloc Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity unknown)
+
+[17/26] Ariel Wilkis
+      Ollama research round 1/6
+      WEB SEARCH: Ariel Wilkis Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[18/26] Enrique Binda
+      Ollama research round 1/6
+      WEB SEARCH: Enrique Binda Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[19/26] José María Brindisi
+      Ollama research round 1/6
+      WEB SEARCH: José María Brindisi Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[20/26] Tom Maver
+      Ollama research round 1/6
+      WEB SEARCH: Tom Maver Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[21/26] Adriana Petra
+      Ollama research round 1/6
+      WEB SEARCH: Adriana Petra Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[22/26] Jorge Reitter
+      Ollama research round 1/6
+      WEB SEARCH: Jorge Reitter Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[23/26] Adriana Riva
+      Ollama research round 1/6
+      WEB SEARCH: Adriana Riva Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[24/26] Mariana Sandez
+      Ollama research round 1/6
+      WEB SEARCH: Mariana Sandez author biography Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Mariana Sandez Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[25/26] Nicolás Colfer
+      Ollama research round 1/6
+      WEB SEARCH: Nicolás Colfer Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Nicolás Colfer biografía Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity unknown)
+
+[26/26] Romina Arnevale
+      Ollama research round 1/6
+      WEB SEARCH: Romina Arnevale gender Argentina
+      Ollama research round 2/6
+      WEB SEARCH: Romina Arnevale género Argentina
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Argentina/arg_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Argentina/failed_authors_log.json
+
+[1/6] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo Argentina
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[2/6] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[3/6] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[4/6] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[5/6] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[6/6] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Argentina/failed_authors_log_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/BasqueCountry/etx_authors_inconclusive.json
+
+[1/1] Aixa De La Cruz
+      Ollama research round 1/6
+      WEB SEARCH: Aixa De La Cruz biography BasqueCountry
+      Ollama research round 2/6
+      WEB SEARCH: Aixa De La Cruz biografía BasqueCountry
+      Ollama research round 3/6
+      WEB SEARCH: Aixa De La Cruz biografia Catalan
+      Ollama research round 4/6
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/BasqueCountry/etx_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/BasqueCountry/etx_failed_authors_log.json
+
+[1/34] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+    Result: male (high confidence; identity high)
+
+[2/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: male (high confidence; identity high)
+
+[3/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: male (high confidence; identity high)
+
+[4/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: male (high confidence; identity high)
+
+[5/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: male (high confidence; identity high)
+
+[6/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: male (high confidence; identity high)
+
+[7/34] Jacob Xalabín"
+      Ollama research round 1/6
+    Result: unknown (low confidence; identity medium)
+
+[8/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[9/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[10/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[11/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[12/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[13/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[14/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[15/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity medium)
+
+[16/34] Jacob Xalabín" Anònim
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín gender BasqueCountry
+      Ollama research round 2/6
+      WEB SEARCH: Jacob Xalabín gender Basque
+      Ollama research round 3/6
+      WEB SEARCH: Jacob Xalabín gender
+      Ollama research round 4/6
+    Result: unknown (low confidence; identity unknown)
+
+[17/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[18/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[19/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[20/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[21/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[22/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[23/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[24/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[25/34] Ernest Farrés
+      Ollama research round 1/6
+      WEB SEARCH: Ernest Farrés biography BasqueCountry
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[26/34] "Gaziel". Agustí Calvet
+      Ollama research round 1/6
+      WEB SEARCH: Gaziel Agustí Calvet BasqueCountry
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[27/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[28/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[29/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[30/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[31/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[32/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[33/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[34/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/BasqueCountry/etx_failed_authors_log_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Brazil/bra_authors_inconclusive.json
+
+[1/8] Anna Charlie
+      Ollama research round 1/6
+      WEB SEARCH: Anna Charlie gender Brazil
+      Ollama research round 2/6
+      WEB SEARCH: Anna Charlie author Brazil
+      Ollama research round 3/6
+      WEB SEARCH: Anna Charlie gender
+      Ollama research round 4/6
+    Result: unknown (low confidence; identity unknown)
+
+[2/8] Andréa Del Fuego
+      Ollama research round 1/6
+      WEB SEARCH: Andréa Del Fuego biography Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[3/8] Luci Sacoleira
+      Ollama research round 1/6
+      WEB SEARCH: Luci Sacoleira biografia Brazil
+      Ollama research round 2/6
+      WEB SEARCH: Luci Sacoleira gender Brazil
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[4/8] Leonardo Tonus
+      Ollama research round 1/6
+      WEB SEARCH: Leonardo Tonus Brazil
+      Ollama research round 2/6
+      WEB SEARCH: Leonardo Tonus Brazil
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[5/8] Afonso Arios
+      Ollama research round 1/6
+      WEB SEARCH: Afonso Arios Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[6/8] Marcos Iolovitch
+      Ollama research round 1/6
+      WEB SEARCH: Marcos Iolovitch Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[7/8] Luca Argel
+      Ollama research round 1/6
+      WEB SEARCH: Luca Argel Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[8/8] Cristina Von
+      Ollama research round 1/6
+      WEB SEARCH: Cristina Von biography Brazil
+      Ollama research round 2/6
+      WEB SEARCH: Cristina Von biografia Brazil
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Brazil/bra_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Brazil/bra_failed_authors_log.json
+
+[1/37] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[2/37] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[3/37] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[4/37] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[5/37] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[6/37] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[7/37] Jacob Xalabín"
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[8/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[9/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[10/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[11/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[12/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[13/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[14/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[15/37] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[16/37] Jacob Xalabín" Anònim
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín gender Brazil
+      Ollama research round 2/6
+      WEB SEARCH: Jacob Xalabin gender Brazil
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[17/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[18/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[19/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[20/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[21/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[22/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[23/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[24/37] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[25/37] Ernest Farrés
+      Ollama research round 1/6
+      WEB SEARCH: Ernest Farrés Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[26/37] "Gaziel". Agustí Calvet
+      Ollama research round 1/6
+    Result: unknown (low confidence; identity low)
+
+[27/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[28/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[29/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[30/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[31/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[32/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[33/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[34/37] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[35/37] Inglês De Sousa
+      Ollama research round 1/6
+      WEB SEARCH: Inglês De Sousa gender Brazil
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[36/37] Inglês De Sousa
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[37/37] Inglês De Sousa
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Brazil/bra_failed_authors_log_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Catalonia/cat_authors_inconclusive.json
+No usable author records.
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Catalonia/cat_failed_authors_log.json
+
+[1/34] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+      WEB SEARCH: Mario Luis 'Silo' Rodriguez Cobo Catalonia
+      Ollama research round 2/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo Catalonia
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[2/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[3/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[4/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[5/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[6/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[7/34] Jacob Xalabín"
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Catalonia
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[8/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[9/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[10/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[11/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[12/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[13/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[14/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[15/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[16/34] Jacob Xalabín" Anònim
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Catalonia gender
+      Ollama research round 2/6
+      WEB SEARCH: Jacob Xalabín Catalonia
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[17/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[18/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[19/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[20/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[21/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[22/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[23/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[24/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[25/34] Ernest Farrés
+      Ollama research round 1/6
+      WEB SEARCH: Ernest Farrés Catalonia
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity medium)
+
+[26/34] "Gaziel". Agustí Calvet
+      Ollama research round 1/6
+      WEB SEARCH: Gaziel Agustí Calvet Catalonia
+      Ollama research round 2/6
+      WEB SEARCH: Gaziel Agusti Calvet Catalonia
+      Ollama research round 3/6
+      WEB SEARCH: Gaziel Agusti Calvet Catalunya
+      Ollama research round 4/6
+    Result: unknown (low confidence; identity low)
+
+[27/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[28/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[29/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[30/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[31/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[32/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[33/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[34/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Catalonia/cat_failed_authors_log_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Chile/chi_authors_inconclusive.json
+
+[1/1] Lola Larra
+      Ollama research round 1/6
+      WEB SEARCH: Lola Larra Chile
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Chile/chi_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Chile/chi_failed_authors_log.json
+
+[1/34] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo género Chile
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[2/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[3/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[4/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[5/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[6/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[7/34] Jacob Xalabín"
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín biography Chile
+      Ollama research round 2/6
+      WEB SEARCH: Jacob Xalabín Chile
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity unknown)
+
+[8/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[9/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[10/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[11/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[12/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[13/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[14/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[15/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity unknown)
+
+[16/34] Jacob Xalabín" Anònim
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Anònim gender Chile
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[17/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[18/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[19/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[20/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[21/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[22/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[23/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[24/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[25/34] Ernest Farrés
+      Ollama research round 1/6
+      WEB SEARCH: Ernest Farrés biography Chile
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[26/34] "Gaziel". Agustí Calvet
+      Ollama research round 1/6
+      WEB SEARCH: Gaziel Agustí Calvet Chile
+      Ollama research round 2/6
+      WEB SEARCH: Gaziel Calvet Chile
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[27/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[28/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[29/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[30/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[31/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[32/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[33/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[34/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Chile/chi_failed_authors_log_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Colombia/col_authors_inconclusive.json
+
+[1/1] Katiba
+      Ollama research round 1/6
+      WEB SEARCH: Katiba Colombia
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Colombia/col_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Mexico/mex_authors_inconclusive.json
+
+[1/1] El Colegio De México
+      Ollama research round 1/6
+      WEB SEARCH: El Colegio de México author gender Mexico
+      Ollama research round 2/6
+      WEB SEARCH: El Colegio de Mexico website
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Mexico/mex_authors_inconclusive_webresolved.json
+
+Processing: /Users/Raluca/Google Drive/My Drive/Lucia/Mexico/mex_failed_authors_log.json
+
+[1/34] Mario Luis "Silo" Rodriguez Cobo
+      Ollama research round 1/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo biography Mexico
+      Ollama research round 2/6
+      WEB SEARCH: Mario Luis Silo Rodriguez Cobo biografía Mexico
+      Ollama research round 3/6
+    Result: unknown (low confidence; identity low)
+
+[2/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[3/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[4/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[5/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[6/34] Mario Luis "Silo" Rodriguez Cobo
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[7/34] Jacob Xalabín"
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Mexico
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[8/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[9/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[10/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[11/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[12/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[13/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[14/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[15/34] Jacob Xalabín"
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[16/34] Jacob Xalabín" Anònim
+      Ollama research round 1/6
+      WEB SEARCH: Jacob Xalabín Anònim Mexico
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[17/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[18/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[19/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[20/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[21/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[22/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[23/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[24/34] Jacob Xalabín" Anònim
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[25/34] Ernest Farrés
+      Ollama research round 1/6
+      WEB SEARCH: Ernest Farrés Mexico
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity unknown)
+
+[26/34] "Gaziel". Agustí Calvet
+      Ollama research round 1/6
+      WEB SEARCH: Gaziel Agustí Calvet Mexico
+      Ollama research round 2/6
+    Result: unknown (low confidence; identity low)
+
+[27/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[28/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[29/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[30/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[31/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[32/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[33/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+[34/34] "Gaziel". Agustí Calvet
+    Reusing result.
+    Result: unknown (low confidence; identity low)
+
+Saved: /Users/Raluca/Google Drive/My Drive/Lucia/Mexico/mex_failed_authors_log_webresolved.json
+
+FINAL SUMMARY
+Authors processed: 217
+Resolved: 6
+Unknown: 211
+Errors: 0
+Cache entries: 65
