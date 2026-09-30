@@ -1,0 +1,1595 @@
+[
+  {
+    "author": "Leandro Avalos Blacha",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gabriela Stoppelman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Hardemeier",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Valeria Ianni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Ravassi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1981",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ricardo Horacio Echegoyen",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mar\u00eda Del Carmen Sillato",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Axel Cherniavsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Rodolfo Urribarri",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1883",
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Joaqu\u00edn Gianuzzi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Delia Ana Fanego",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Leandro Oyola",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Guillermo Saccomano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sauli Pseud\u00f3nimo Lostal",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ricardo Liniers",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Marina Cedro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Ra\u00fal Garcia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Hector Freire",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariana Enr\u00edquez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Marcelo Damiani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Ariel Madrazo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mario Jorge Buchbinder",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Amaro (Hurtado Vizcarra, Javier) Nay",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos Busignani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Nora Strejilevich",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": "1977",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariano Quiroz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Hugo Mastrolorenzo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1957",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gilda Sabsay Folk",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Clara Coria",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Huertas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Marisol (Isol) Misenta",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Hernan Invernizi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "1933",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariano Saravia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1898",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Agust\u00edn Arosteguy",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Washington (Santiago Vega) Cucurto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Lili Bosnik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Eduardo L. Holmberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos Mar\u00eda Dominguez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Emilio De Lascano Tegui (Vizconde)",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Francisco Romano Perez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Enrique Gonzalez Tu\u00f1on",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Castellani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mar\u00eda Ines Krimer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Natalia Moret",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Silvina Premat",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1994",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Andr\u00e9s Ruggieri",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Julieta Quiros",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sebasti\u00e1n Huber",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Daniel Krupa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1972",
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Adri\u00e1n Gimenez Hutton",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Marcelo Britos",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gloria Husmann",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Graciela Chiale",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mart\u00edn Gambarotta",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "1966",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Victoria Bisogno",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos Calica Ferrer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Ignacio Lebron",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1953",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Juan Eduardo Tesone",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Antonia Amprina",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Florencia Castellano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alicia Dujovne",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mat\u00edas Crowder",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Enrique Solinas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Claudia Gilman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Liliana Diaz Mindury",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Beatr\u00edz Sarlo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mar\u00eda Cristina Goyena",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Diana Piazzolla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Kike Ferari",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Pablo Besar\u00f3n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Pablo Adr\u00edan Savino",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "N\u00e9stor Ponce",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Andrea Stefanoni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Eduardo Schimunis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Nerea Liebre",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Daniel Tarnopolsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "unknown",
+    "birth_year": "1924",
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "In\u00e9s Fernandez Moreno",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Miguel Sem\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Eduardo Rezzano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Quino - Joaqu\u00edn Salvador Lavado Tejon",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2020",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Le\u00f3n Rotzitchner",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luis Ra\u00fal Calvo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Diego Calb",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2010",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fabi\u00e1n Ludue\u00f1a Romandini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariela Kogan",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Dalia Rosetti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fernanda Nicolini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alicia Beltrami",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Hugo Lamas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2013",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Graciela Ferras",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fernando Rearte",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sebastiano De Filippi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Daniel Varacalli Costas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Paula Suster",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Liliana Ponce",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Monteleone",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos E. A Feiling",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "H\u00e9ctor Levy-Daniel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariano Tenconi Blanco",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fabi\u00e1n Miguel D\u00edaz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos Aldaz\u00e1bal",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Myrtha Schalom",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": "1981",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fernanda Bravo Herrera",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ariel Luppino",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Clara Astarloa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Diego Mart\u00edn Vecchio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Julia Sarachu",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Lucas Margarit",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Hern\u00e1n L\u00f3pez Winne",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "V\u00edctor Malumian",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luciano Nosetto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luc\u00ed Cavallero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "unknown",
+    "birth_year": "1925",
+    "death_year": "1925",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Edgardo Patricio Scott",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Grimson",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Garcia Schnetzer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Laura Crespi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sylvia Saitta",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Fernanda Mugica",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": "1970",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge Fern\u00e1ndez Diaz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Francisco Magallanes",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1952",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Nicol\u00e1s Ferraro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mart\u00edn Alejandro Biaggini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Cecilia Scalisi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Genes Radawski",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1931",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariana Luzzi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "M\u00f3nica Szurmuk",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ana Basualdo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "M\u00f3nica Rosenblum",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Salvador Gargiulo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alejandro Winograd",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gonzalo Monterroso",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Vanina Colagiovanni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mart\u00edn Berasain",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Valeria Tentoni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Horacio Vazquez Rial",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariana Graciano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Andr\u00e9s Tacsir",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sandro Barella",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariano Rolando Andrade",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Paola Vetere",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "D\u00e9bora Tajer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gabriela Rodriguez Rial",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Moira Cristia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Laura Cerrato",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariela Pe\u00f1a",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Paula Daniela Bianchi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luciano Hern\u00e1ndez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Patricio Rago",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Juan Carr\u00e1 Carra",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Eugenio Lopez Arriazu",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariano Zarowsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Facundo (Sike) Cobbe",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Magal\u00ed Etchebarne",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gonzalo Unamuno",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1936",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Roberta Iannamico",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Adri\u00e1n Pais",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Martha Muti De Malazzo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gustavo (Compilador) Lopez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ariel Bermani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Juli\u00e1n Fernandez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Anal\u00eda Argento",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Oscar Conde",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2004",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ralph Buchenhorst",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1926",
+    "death_year": "1926",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Susana Poujol",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "M\u00f3nica Katz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jos\u00e9 Marmol",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "1863",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mar\u00eda Cecilia Muruaga",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Tute (Juan Mat\u00edas Loiseau)",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Kioskerman (Pablo Holmberg)",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Guillermo Ba\u00f1uelos",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Margarita Feliciano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "C.A. Kuczer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Rep (Miguel Repiso)",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ricardo Rojas Ayrala",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ana Becci\u00fa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos De N\u00e1poli",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  }
+]

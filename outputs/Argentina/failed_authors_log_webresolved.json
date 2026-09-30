@@ -1,0 +1,98 @@
+[
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Web search returned 403 Forbidden error; no reliable evidence found",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results obtained due to client error (403 Forbidden). No URLs or evidence available to confirm gender. Gender cannot be inferred from name, nationality, or other indirect methods per research rules.",
+      "searched_nation": "Argentina",
+      "status": "unknown"
+    }
+  }
+]

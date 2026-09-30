@@ -1,0 +1,3773 @@
+[
+  {
+    "author": "Luisa Valenzuela",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1938",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fernanda Garc\u00eda Lao",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Perla Suez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1899",
+    "death_year": "1986",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Piglia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1941",
+    "death_year": "2017",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sylvia Iparraguirre",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Iosi Havilio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1974",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Gamerro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "C\u00e9sar Aira",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tamara Kamenszain",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "2021",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "\u00c1ngela Pradelli",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "N\u00e9stor Kohan",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pier Brito",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1974",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Olga Orozco",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1920",
+    "death_year": "1999",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Liliana Heker",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Norah Lange",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1905",
+    "death_year": "1972",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriel Rol\u00f3n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Noem\u00ed Ulla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1940",
+    "death_year": "2016",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rub\u00e9n Tizziani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1937",
+    "death_year": "2020",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sonia Abadi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Samoilovich",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "H\u00e9ctor Viel Temperley",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "1987",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Osvaldo Bayer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1927",
+    "death_year": "2018",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Kohan",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Negroni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ana Mar\u00eda Shua",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcos Mayer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sanyu",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1907",
+    "death_year": "1966",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Horacio Salas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1938",
+    "death_year": "2020",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Lato",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1950",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Claudia Pi\u00f1eiro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Rosa Lojo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mempo Giardinelli",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leopoldo Marechal",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1900",
+    "death_year": "1970",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Julio Cort\u00e1zar",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1914",
+    "death_year": "1984",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodolfo Walsh",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1927",
+    "death_year": "1977",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ana Mar\u00eda Cabrera",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1901",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fernando Sorrentino",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alicia Kozameh",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leopoldo Lugones",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1874",
+    "death_year": "1938",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Coler",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alfonsina Storni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1892",
+    "death_year": "1938",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos D\u00e1maso Mart\u00ednez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1945",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rafael Flores Montenegro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1950",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Taty Almeida",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1930",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luc\u00eda Puenzo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Ben\u00edtez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Sivak",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Victoria Donda",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1979",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Sacheri",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Pineau",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Mar\u00eda Pescetti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Busqued",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1970",
+    "death_year": "2021",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pedro Mairal",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juana Manuela Gorriti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1818",
+    "death_year": "1892",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Guillermo Orsi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1946",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mariano Siskind",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Elsa Drucaroff",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Guebel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Evaristo Carriego",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1883",
+    "death_year": "1912",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fernanda Laguna",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Cecilia Pav\u00f3n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Filloy",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1894",
+    "death_year": "2000",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Chitarroni",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Horacio Verbitsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Walter Mignolo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1941",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Jos\u00e9 Saer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1937",
+    "death_year": "2005",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Manuela Fingueret",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1945",
+    "death_year": "2013",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriel B\u00e1\u00f1ez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "2009",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Silvina Ocampo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1903",
+    "death_year": "1993",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Andrea Ferrari",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1770",
+    "death_year": "1849",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Antonio Dal Masetto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1938",
+    "death_year": "2015",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Mu\u00f1oz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1881",
+    "death_year": "1945",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Sampayo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mario Capasso",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Reina Roff\u00e9",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roland Shakespear",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1941",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alan Pauls",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tulio Halper\u00edn Donghi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1926",
+    "death_year": "2014",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Can\u00e9",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1851",
+    "death_year": "1905",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Ramos",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Gelman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1930",
+    "death_year": "2014",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mercedes Roff\u00e9",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Lucio V. Mansilla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1831",
+    "death_year": "1913",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Arlt",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1900",
+    "death_year": "1942",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Paulina Vinderman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1944",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rafael Spregelburd",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hern\u00e1n Ronsino",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carolina Aguirre",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Graciela Ar\u00e1oz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "2000",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luisa Futoransky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1939",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Diana Bellessi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1946",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Fondebrider",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Aulicino",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriela Bejerman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arturo Carrera",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Martini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Norma Huidobro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Paula Bombara",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Federico Jeanmaire",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ang\u00e9lica Gorodischer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1928",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo G\u00fciraldes",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1886",
+    "death_year": "1927",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Horacio Quiroga",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1878",
+    "death_year": "1937",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Oliverio Coelho",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Pez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Horacio Ferrer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "2014",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Gimenez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1941",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jose Hernandez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1834",
+    "death_year": "1886",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ernesto Schoo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1925",
+    "death_year": "2013",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Bruno Bimbi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Guillermo Mart\u00ednez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mariano Peyrou",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Katchadjian",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Vera Giaconi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1974",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcelo Figueras",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Samanta Schweblin",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Vitale",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Susana Szwarc",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1952",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Jos\u00e9 Sebreli",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1930",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Laiseca",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1941",
+    "death_year": "2016",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ernesto Mallo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Liliana Bellone",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Diego Paszkowski",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "In\u00e9s Garland",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Ferro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mat\u00edas N\u00e9spolo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Andr\u00e9s Neuman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Adolfo Bioy Casares",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1914",
+    "death_year": "1999",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Santiago Sylvester",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leonardo Martinez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Enrique Molina",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda In\u00e9s Falconi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo De Santis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1928",
+    "death_year": "1985",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Diego Agrimbau",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Antonio Di Benedetto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1922",
+    "death_year": "1986",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Raquel Robles",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fernando Monacelli",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Bergoglio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1936",
+    "death_year": "2025",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Federico Andahazi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alejandro Maciel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1997",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodrigo Garcia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Oliverio Girondo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1891",
+    "death_year": "1967",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Cecilia Szperling",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patricio Pron",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Liliana Heer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eva Peron",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1919",
+    "death_year": "1952",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pedro Ochoa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1900",
+    "death_year": "1947",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Josefina Ludmer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1939",
+    "death_year": "2016",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alfredo Prior",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1952",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Moreno",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Claudio Tolcachir",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mario Goloboff",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1939",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Judith Gociol",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Domingo Faustino Sarmiento",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1811",
+    "death_year": "1888",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alicia Steinberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "1933",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Bernasconi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sergio Bizzio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Petraglia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1950",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eugenio Cambaceres",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1843",
+    "death_year": "1889",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcelo Birmajer",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rosalba Campra",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1940",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Liliana Bodoc",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1958",
+    "death_year": "2018",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodolfo Livingston",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1931",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mario Diament",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Isidoro Blaisten",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "2004",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Camilo Sanchez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Liliana Lukin",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leila Guerriero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Claudia Schvartz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1952",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Susana Cabuchi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1948",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Urquiza",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leopoldo Castilla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Natalia Litvinova",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1986",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Angel Bustos",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1932",
+    "death_year": "1976",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Graciela Maturo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1928",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Romina Paula",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1979",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Longhi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1965",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Manuel Pe\u00f1a",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Martin Malharro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1865",
+    "death_year": "1911",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Abelardo Castillo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1935",
+    "death_year": "2017",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Calabrese",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Fontanarrosa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "2007",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Pablo Feinmann",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "2021",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Edgardo Dobry",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcelo Luj\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodolfo Alonso",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1934",
+    "death_year": "2021",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Oscar Steimberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1936",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Julian Lopez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Macedonio Fern\u00e1ndez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1874",
+    "death_year": "1952",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Teresa Andruetto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Susana Romano Sued",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hebe Uhart",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1936",
+    "death_year": "2018",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Berti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1964",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alejandra Pizarnik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1936",
+    "death_year": "1972",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Prieto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Oscar Taborda",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Cubillas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hugo Padeletti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1928",
+    "death_year": "2018",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Link",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tom\u00e1s Eloy Mart\u00ednez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1934",
+    "death_year": "2010",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rafael Cippolini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Costa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1982",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hilario Ascasubi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1807",
+    "death_year": "1875",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mauricio Kartun",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1946",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hugo Mujica",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Moyano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1930",
+    "death_year": "1992",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jane Pettigrew",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Oliva",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Haroldo Conti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1925",
+    "death_year": "1976",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alicia Borinsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1946",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ileana Lotersztain",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Syria Poletti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1917",
+    "death_year": "1991",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriela Cabez\u00f3n C\u00e1mara",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Aletto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Dami\u00e1n Tabarovsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Stupia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Laura Klein",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luciano Lamberti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Francisco Solano Lopez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1928",
+    "death_year": "2011",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Esther Andradi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Feierstein",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Fasce",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sergio Chejfec",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Germ\u00e1n Maggiori",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "N\u00e9stor Garc\u00eda Canclini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1939",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Bernardo Kliksberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1940",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Nemirovsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pedro Mancini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ema Wolf",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Strafacce",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rafael Pinedo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1954",
+    "death_year": "2006",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Boccanera",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1952",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alicia Plante",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1939",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Delfina Muschietti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sergio S\u00e1nchez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1982",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Selva Almada",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Manuel Puig",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1932",
+    "death_year": "1990",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hugo Francisco Bauz\u00e1",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Juarroz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1925",
+    "death_year": "1995",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Agust\u00edn Comotto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roberto Videla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1924",
+    "death_year": "2005",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pola Oloixarac",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "F\u00e9lix Bruzzone",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Alvaro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1993",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "El\u00edas Jos\u00e9 Palti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Frankel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1900",
+    "death_year": "1988",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Luque",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gilda Manso",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Romero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1899",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Alabarces",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Veronese",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1955",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Consiglio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ariana Harwicz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Sagasti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Enrique Dussel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1934",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ana Moreno",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sara Gallardo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1931",
+    "death_year": "1988",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Silvana Fucito",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1950",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arnaldo Calveyra",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1929",
+    "death_year": "2015",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ricardo Molinari",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1898",
+    "death_year": "1996",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Michel Nieva",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1988",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Elsa Osorio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1952",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Lucas Nine",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Federico Falco",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mario Villani",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1916",
+    "death_year": "2006",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Nadia Fink",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Cecilia Merch\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Laura Devetach",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1936",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriela Mansilla",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patricia Ratto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Sonia Cristoff",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1965",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Gainza",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carla Maliandi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luciana Mantero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ariel Magnus",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Silvia Molloy",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1938",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hern\u00e1n Borisonik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Nesis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Baron Biza",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "2001",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcelo Cohen",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Jozami",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1939",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Aric\u00f3",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1931",
+    "death_year": "1991",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Victoria Ocampo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1890",
+    "death_year": "1979",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodrigo Fres\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Osvaldo Soriano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "1997",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rafael Obligado",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1851",
+    "death_year": "1920",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Lola Arias",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mariana Travacio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luciano Wernicke",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Francisco Urondo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1930",
+    "death_year": "1976",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Teresa Arij\u00f3n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Le\u00f3nidas Lamborghini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1927",
+    "death_year": "2009",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Edgardo Cozarinsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1937",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ver\u00f3nica Gago",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Silvia Arazi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1955",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Viviana Rivero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tom\u00e1s Downey",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Pavlovsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "2015",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sergio Olgu\u00edn",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leonel Giacometto",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Virginia Higa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Chernov",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Agustina Bazterrica",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1974",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Osvaldo Lamborghini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1940",
+    "death_year": "1985",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Vitagliano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Graciela Scheines",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Roque Larraquy",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Susana Thenon",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1935",
+    "death_year": "1991",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "H\u00e9ctor Dante Cincotta",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rodolfo Dinzel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1950",
+    "death_year": "2015",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Pablo Bertazza",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sebasti\u00e1n Fest",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Betina Gonzalez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Andrea D'Atri",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Elizabeth Jelin",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1941",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leonor Arfuch",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "2021",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Gusm\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alejandro Dujovne",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Valeria Edelsztein",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1982",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mat\u00edas Feldman",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Lanese",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1945",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Isaacson",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gustavo Malajovich",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marta Dillon",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mariano Blatt",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "No\u00e9 Jitrik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1928",
+    "death_year": "2022",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Ang\u00e9lica Bosco",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1909",
+    "death_year": "2006",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Camila Sosa Villada",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "trans woman",
+    "birth_year": "1982",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Alem\u00e1n",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriela Halac",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Javier Sinay",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Adri\u00e1n Gorelik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Elvio Gandolfo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Ainbinder",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fabi\u00e1n Mart\u00ednez Siccardi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Dolores Reyes",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "I Acevedo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "trans man",
+    "birth_year": "1983",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Florencia Etcheves",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tununa Mercado",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1939",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Carlos Rios",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Andrea Giunta",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Enzo Maqueira",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mario Ortiz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1929",
+    "death_year": "2006",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sebasti\u00e1n Mart\u00ednez Daniell",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Feierstein",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Laura Wittner",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Bel\u00e9n L\u00f3pez Peir\u00f3",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1992",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Laurentino Ortiz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1896",
+    "death_year": "1978",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Adriana De La Fuente",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fray Mocho",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1858",
+    "death_year": "1903",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aurora Venturini",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1921",
+    "death_year": "2015",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Arias",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Hadis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Paula Rodr\u00edguez",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1987",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juana Manso",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1819",
+    "death_year": "1875",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ezequiel Adamovsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Abel Posse",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1934",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Sasturain",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1945",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Paula Varsavsky",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Santiago Craig",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Tamara Tenenbaum",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1989",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Diego Muzzio",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Mu\u00f1oz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Felipe Castagnet",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1986",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jos\u00e9 Retik",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Jos\u00e9 Becerra",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1965",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Rita Laura Segato",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcos Herrera",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mirta Rosenberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1951",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Atahualpa Yupanqui",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1908",
+    "death_year": "1992",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alicia Barberis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Briante",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "1995",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Maristella Svampa",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Georgina Orellano",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1986",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arturo Andr\u00e9s Roig",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1922",
+    "death_year": "2012",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Breccia",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1919",
+    "death_year": "1993",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Micaela Chirif",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marina Closs",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1990",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "H\u00e9ctor Libertella",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1945",
+    "death_year": "2006",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Octavio Prenz",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1932",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "I\u00f1aki Echeverria",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": null,
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Paul Groussac",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1848",
+    "death_year": "1929",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eugenia Almeida",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Josefina Licitra",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gonzalo Castro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1987",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Beatriz Actis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Yael Frankel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Claudia Chamudis",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Camila Fabbri",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1989",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Javier Daulte",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gustavo Nielsen",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Sara Rosenberg",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1954",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Axel Gasquet",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marco Denevi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1920",
+    "death_year": "1998",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pedro Orgambide",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1929",
+    "death_year": "2003",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hugo Paredero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Alberto Romero",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1992",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Atilio Boron",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eva Eisenstaedt",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1940",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Enrique Medina",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1937",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Marcelo Gullo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Vedda",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gustavo Roldan",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1935",
+    "death_year": "2012",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mar\u00eda Elena Walsh",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1930",
+    "death_year": "2011",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Manguel",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "F\u00e9lix Luna",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1925",
+    "death_year": "2009",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Enrique Butti",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1971",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alberto Gerchunoff",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1883",
+    "death_year": "1950",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mart\u00edn Murphy",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1890",
+    "death_year": "1966",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Florencia Abbate",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1976",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Natalia Crespo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Nela R\u00edo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Urbanyi",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1939",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Rovner",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1942",
+    "death_year": "2019",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Griselda Gambaro",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "female",
+    "birth_year": "1928",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "L\u00e1zaro Covadlo",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1937",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eduardo Belgrano Rawson",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1943",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Salinas",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1901",
+    "death_year": "1995",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jorge Bucay",
+    "funding_country": "ARG",
+    "country": "Argentina",
+    "gender": "male",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  }
+]
