@@ -1,0 +1,29 @@
+[
+  {
+    "author": "Alaine Agirre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1990",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Samara Velte",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1991",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Beatriz Chivite",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1991",
+    "death_year": "",
+    "source": "wikidata_en"
+  }
+]

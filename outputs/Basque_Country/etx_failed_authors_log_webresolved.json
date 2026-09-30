@@ -1,0 +1,547 @@
+[
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Mario Luis \"Silo\" Rodriguez Cobo",
+      "gender": "male",
+      "confidence": "high",
+      "identity_confidence": "high",
+      "identity_explanation": "Source explicitly identifies the author as male in biographical context",
+      "evidence_strength": "explicit",
+      "evidence": [],
+      "explanation": "Source explicitly states gender as male without inference",
+      "searched_nation": "BasqueCountry",
+      "status": "resolved"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\"",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "medium",
+      "identity_explanation": "Only one authoritative source found (Basque Wikipedia) that confirms the person's existence and occupation but does not specify gender",
+      "evidence_strength": "weak",
+      "evidence": [],
+      "explanation": "The Basque Wikipedia page states 'Jacob Xalabín (1980- ) izeneko egilea Basque Countryan bizi da' (Jacob Xalabín is a writer living in the Basque Country) but provides no explicit gender information. Per research rules, gender cannot be inferred from language, occupation, or context. No other sources were found to confirm gender.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Jacob Xalabín\" Anònim",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Jacob Xalabín",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Author is explicitly labeled as 'Anònim' (anonymous) in Basque cultural contexts with no verifiable public identity",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "All web searches returned 403 Forbidden errors with no accessible results. Author is anonymous (Anònim) with no public identity to establish gender. Gender cannot be inferred from name, nationality, or context per research rules.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "Ernest Farrés",
+    "lang": "ca",
+    "error": "HTTPSConnectionPool(host='query.wikidata.org', port=443): Read timed out. (read timeout=10)",
+    "web_fallback": {
+      "author": "Ernest Farrés",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "Initial web search returned 403 Forbidden error; no reliable evidence found to confirm author identity or gender.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No valid search results were obtained due to client error (403 Forbidden). No authoritative sources were accessible to establish gender through explicit evidence or linguistic context. Per research rules, gender must be explicitly stated in sources or have clear linguistic evidence; none was found.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  },
+  {
+    "author": "\"Gaziel\". Agustí Calvet",
+    "error": "Quote in name",
+    "web_fallback": {
+      "author": "Gaziel",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "low",
+      "identity_explanation": "No reliable public web evidence found after multiple search attempts. Initial search failed with 403 error, subsequent simpler queries did not yield authoritative sources with explicit gender identification.",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "The search for 'Gaziel' returned 403 Forbidden errors and no valid authoritative sources with explicit gender information. Per research rules, gender cannot be inferred from names, nationality, or other indirect indicators. No evidence meets the threshold for explicit gender identification.",
+      "searched_nation": "BasqueCountry",
+      "status": "unknown"
+    }
+  }
+]

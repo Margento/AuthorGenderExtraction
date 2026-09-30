@@ -1,0 +1,38 @@
+[
+  {
+    "author": "Ramon Olasagasti",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "masculino",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_es"
+  },
+  {
+    "author": "Pello Guti\u00e9rrez",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "masculino",
+    "birth_year": "1979",
+    "death_year": "",
+    "source": "wikidata_es"
+  },
+  {
+    "author": "Bernat Etxepare",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "masculino",
+    "birth_year": "1480",
+    "death_year": "1545",
+    "source": "wikidata_es"
+  },
+  {
+    "author": "Txani Rodriguez",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "femenino",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_es"
+  }
+]

@@ -1,0 +1,911 @@
+[
+  {
+    "author": "Juan Carlos Etxegoien",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ramon Saizarbitoria",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1944",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joxe Belmonte",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Felipe Juaristi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Kruz Igerabide",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Edorta Jimenez",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joseba Sarrionandia",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Laura Mintegi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1955",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juan Garzia",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1955",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arantxa Iturbe",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1964",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jokin Mu\u00f1oz",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Nan",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1920",
+    "death_year": "2012",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Mari Mujika",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1939",
+    "death_year": "2017",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Xabier Galarreta",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Harkaitz Cano",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Yolanda Arrieta",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Karlos Linazasoro",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hasier Etxeberria",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1957",
+    "death_year": "2017",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Julia Otxoa",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ana Urkiza",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Koldo Izagirre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Bernardo Atxaga",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luis Haranburu Altuna",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Andoni Ega\u00f1a",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aurelia Arkotxa",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Anjel Lertxundi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pako Aristi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arantxa Urretabizkaia",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joxean Sagastizabal",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joseba Zulaika",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Javi Cillero",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aingeru Epaltza",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Edorta Agirre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Eider Rodriguez",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Amaia Iturbide",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Unai Elorriaga",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1980",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patxi Zubizarreta",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1964",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jon Arretxe",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Daniel Innerarity",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jon Maia",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aitor Arana",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Manu Ertzilla",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1953",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ixiar Rozas",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1972",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Lourdes O\u00f1ederra",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Xabier Zabaltza",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Pablo Sastre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Juanjo Olasagarre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gabriel Aresti",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1933",
+    "death_year": "1975",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Julen Gabiria",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Iban Zaldua",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Fernando Aramburu",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1956",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Karmele Jaio",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Hasier Larretxea",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1982",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joan Mari Irigoien",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1948",
+    "death_year": "2023",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Kirmen Uribe",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1970",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aizpea Goenaga",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Txuma Murugarren",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1964",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patxi Baztarrika",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Irati Elorrieta",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1979",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Garazi Goia",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jon Kortazar",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1955",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Aitziber Etxeberria",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1973",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "I\u00f1igo Aranbarri",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Joxemari Iturralde",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1951",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Imanol Murua",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1935",
+    "death_year": "2008",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Irati Jimenez",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1977",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Yurre Ugarte",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1965",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patri Urkizu",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1946",
+    "death_year": "2024",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Javier Otaola",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1945",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Itxaro Borda",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1959",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Gotzon Barandiaran",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1974",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Uxue Alberdi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1984",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mariasun Landa",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1949",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Dolores Redondo",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1969",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Ramiro Pinilla",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1923",
+    "death_year": "2014",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miren Agur Meabe",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1962",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Patxo Telleria",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1960",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jon Gerediaga",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Uxue Apaolaza",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1981",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Miguel Unamuno",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1864",
+    "death_year": "1936",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Garbi\u00f1e Ubeda",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1967",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Alaine Agirre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1990",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Jon Alonso",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1958",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mikel Albisu",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "2000",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Danele Sarriugarte",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1989",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Iv\u00e1n Repila",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Katixa Agirre",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1981",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "I\u00f1aki Soto",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1975",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Samara Velte",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1991",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Arrate Ega\u00f1a",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1963",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Beatriz Chivite",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1991",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Asisko Urmeneta",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1965",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Maddi Pelot",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1947",
+    "death_year": "2016",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Luisa Etxenike",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1957",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mikel Valverde",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1966",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Cira Crespo",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1980",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Leire Bilbao",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Dani Fano",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1968",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mikel Soto",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1978",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Mikel Antza",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "male",
+    "birth_year": "1961",
+    "death_year": "",
+    "source": "wikidata_en"
+  },
+  {
+    "author": "Oihane Amantegi",
+    "funding_country": "ETX",
+    "country": "Basque Country",
+    "gender": "female",
+    "birth_year": "1985",
+    "death_year": "",
+    "source": "wikidata_en"
+  }
+]
