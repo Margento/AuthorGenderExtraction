@@ -1,0 +1,20 @@
+[
+  {
+    "author": "Katiba",
+    "funding_country": "COL",
+    "country": "Colombia",
+    "llm_response": "After conducting research, I was unable to find reliable sources providing information on a Colombian writer named \"Katiba\". As a result, I must provide the following information as unknown:\n\n* Gender: Unknown\n* Year of birth: Unknown\n* Year of death (if applicable): Unknown\n\nIf you have any additional context or details about this writer, I may be able to help you find more specific information.",
+    "web_fallback": {
+      "author": "Katiba",
+      "gender": "unknown",
+      "confidence": "low",
+      "identity_confidence": "unknown",
+      "identity_explanation": "Web search failed with 403 Forbidden error; no valid evidence retrieved",
+      "evidence_strength": "none",
+      "evidence": [],
+      "explanation": "No reliable public web evidence was obtained due to server error. Gender cannot be inferred from name, nationality, or other contextual factors per research rules.",
+      "searched_nation": "Colombia",
+      "status": "unknown"
+    }
+  }
+]
