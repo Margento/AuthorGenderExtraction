@@ -1,0 +1,308 @@
+[
+  {
+    "author": "Fernando Del Paso",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2018",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Elisa Speckman Guerra",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Erik Vel\u00e1squez Garc\u00eda",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jos\u00e9 Antonio Serrano Ortega",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Andr\u00e9s Lira",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Engracia Loyo",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "\u00d3scar Maz\u00edn",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Dorothy Tanck De Estrada",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mariana Hartas\u00e1nchez Frenk",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ernesto Anaya Ottone",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ximena Escalante Mu\u00f1oz",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mart\u00edn Zapata Quiroz",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Isaac Esau Carrillo Can",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": "2000",
+    "source": "llama3_local"
+  },
+  {
+    "author": "A. E. Quintero",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luis Vicente De Aguinaga",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1863",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Claudia Luna Fuentes",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Oliverio Arreola",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Ver\u00f3nica Gerber",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Servando Teresa De Mier",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1827",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mario Bellat\u00edn",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luis Armenta Malpica",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Sandra Nieto Rodr\u00edguez",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Alfonso D'Aquino",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Luis Ayhllon",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "No\u00e9 Morales",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Jorge F. Hern\u00e1ndez",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Julieta Gonz\u00e1lez",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Paco Ignacio Taibo",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Juana In\u00e9s Asbaje Y Ram\u00edrez De Santillana",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Gabriela Olivares Torres",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Melba Falck Reyes",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Benjam\u00edn Anaya Gonz\u00e1lez",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Mauricio Ort\u00edz",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Various Authors",
+    "funding_country": "MEX",
+    "country": "Mexico",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  }
+]
