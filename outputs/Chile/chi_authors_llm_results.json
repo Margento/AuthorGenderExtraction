@@ -1,0 +1,47 @@
+[
+  {
+    "author": "Pablo De Rokha/Win\u00e9tt De Rokha",
+    "funding_country": "CHI",
+    "country": "Chile",
+    "gender": "non-binary",
+    "birth_year": null,
+    "death_year": "1883",
+    "source": "llama3_local"
+  },
+  {
+    "author": "Carlos Reyes Y Rodrigo Elgueta",
+    "funding_country": "CHI",
+    "country": "Chile",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Bruno Lloret",
+    "funding_country": "CHI",
+    "country": "Chile",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Teresa Willms Montt",
+    "funding_country": "CHI",
+    "country": "Chile",
+    "gender": "female",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  },
+  {
+    "author": "Felipe Becerra",
+    "funding_country": "CHI",
+    "country": "Chile",
+    "gender": "male",
+    "birth_year": null,
+    "death_year": null,
+    "source": "llama3_local"
+  }
+]
